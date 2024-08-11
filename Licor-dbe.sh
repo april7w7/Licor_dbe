@@ -5,7 +5,6 @@ animate_opening() {
     clear
     echo -e "\n\n\n\n\n\n\n\n"
 
-    # Exibindo a animação com o codinome em outra cor
     echo -e "\033[0;33m.__   .__                   \033[0m"
     echo -e "\033[0;33m|  |  |__|  ____    ____  _______ \033[0m"
     echo -e "\033[0;33m|  |  |  |_/ ___\\  /  _ \\ \\_  __ \\\033[0m"
